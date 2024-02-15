@@ -15,11 +15,7 @@ In the project directory, you can run:
 
 ### `npm run start` to run the react front end app on your browser
 
-![w1](https://github.com/HarshaSiriki/willow/assets/87467222/c117a3a1-3a20-4dd6-8326-a86bc420d450)
-
-![w2](https://github.com/HarshaSiriki/willow/assets/87467222/54a69439-0934-4110-9882-5538377616fc)
-
-
+![w1](https://github.com/HarshaSiriki/willow/assets/87467222/65d93cd2-e977-4d8c-93ce-dcf5fc242823)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
